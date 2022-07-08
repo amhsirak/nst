@@ -15,6 +15,11 @@ Tensorflow implementation of Neural Style Transfer - using VGG19
     <td><img src="result/result_1.png" width=270 height=350></td>
   </tr>
   <tr>
+    <td><img src="dataset/content/content_3.jpg" width=270 height=350></td>
+    <td><img src="dataset/style/style_3.jpg" width=270 height=350></td>
+    <td><img src="result/result_3.png" width=270 height=350></td>
+  </tr>
+  <tr>
     <td><img src="dataset/content/content_2.jpg" width=270 height=350></td>
     <td><img src="dataset/style/style_2.jpg" width=270 height=350></td>
     <td><img src="result/result_2.png" width=270 height=350></td>
